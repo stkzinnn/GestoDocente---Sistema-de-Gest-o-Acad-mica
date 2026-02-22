@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AdicionarAlunoView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdicionarTarefaView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AlunosView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EditarGrupoView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GruposView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\NotasView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PautaFinalView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TarefasView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EditarPerfilView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VisualizarNotasView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdicionarAlunoView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdicionarTarefaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AlunosView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EditarGrupoView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GruposView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NotasView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TarefasView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EditarPerfilView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\VisualizarNotasView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

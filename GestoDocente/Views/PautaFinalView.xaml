@@ -1,0 +1,94 @@
+﻿<Window x:Class="GestoDocente.Views.PautaFinalView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:GestoDocente.ViewModels"
+        Title="📋 Pauta Final"
+        Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        Background="#FAFAFA"
+        FontFamily="Segoe UI"
+        Opacity="0">
+
+    <!-- Fade-In -->
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                     From="0" To="1" Duration="0:0:0.4"
+                                     AccelerationRatio="0.2" DecelerationRatio="0.8"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Window.DataContext>
+        <vm:PautaFinalViewModel />
+    </Window.DataContext>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Topo -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,0,0,10">
+            <TextBlock Text="📋 Pauta Final de Alunos"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       Foreground="#2C3E50"
+                       VerticalAlignment="Center" />
+            <Button Content="🔙 Voltar ao Menu"
+                    Click="VoltarAoMenu_Click"
+                    HorizontalAlignment="Right"
+                    Margin="450,0,0,0"
+                    Padding="10,5"
+                    Background="#D6EAF8"
+                    Foreground="#154360"
+                    FontWeight="Bold"
+                    Width="160"
+                    Cursor="Hand"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <Border Grid.Row="1"
+                BorderBrush="#D5D8DC"
+                BorderThickness="1"
+                CornerRadius="8"
+                Background="White">
+            <DataGrid x:Name="dataGrid"
+                      ItemsSource="{Binding AlunosNotas}" 
+                      AutoGenerateColumns="False" 
+                      CanUserAddRows="False" 
+                      IsReadOnly="True" 
+                      HeadersVisibility="Column"
+                      GridLinesVisibility="Horizontal"
+                      RowBackground="#FDFEFE"
+                      AlternatingRowBackground="#F2F3F4"
+                      BorderThickness="0"
+                      FontSize="14"
+                      RowHeight="35"
+                      Margin="0"
+                      ColumnHeaderHeight="35">
+
+                <DataGrid.Resources>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#566573"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="FontSize" Value="14"/>
+                        <Setter Property="Padding" Value="10,5"/>
+                    </Style>
+                </DataGrid.Resources>
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="👤 Aluno" Binding="{Binding Nome}" Width="200"/>
+                    <!-- As colunas das tarefas são inseridas dinamicamente -->
+                    <DataGridTextColumn Header="🎯 Nota Final" Binding="{Binding NotaFinal, StringFormat=F2}" Width="120"/>
+                    <DataGridTextColumn Header="📌 Estado" Binding="{Binding Estado}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</Window>

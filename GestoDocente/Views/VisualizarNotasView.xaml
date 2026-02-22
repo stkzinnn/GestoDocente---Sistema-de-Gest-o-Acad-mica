@@ -1,0 +1,118 @@
+﻿<Window x:Class="GestoDocente.Views.VisualizarNotasView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="Visualização de Notas" Height="800" Width="1200"
+        WindowStartupLocation="CenterScreen"
+        Background="#F8F9FA">
+
+    <DockPanel Margin="20">
+        <!-- TOPO -->
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0 0 0 20">
+            <Button Content="Voltar ao Menu"
+                    Click="VoltarAoMenu_Click"
+                    Background="#D6EAF8"
+                    Foreground="#154360"
+                    FontWeight="SemiBold"
+                    Padding="10,5"
+                    Margin="0 20 20 0" />
+
+            <TextBlock Text="Selecionar Tarefa:"
+                       FontWeight="Bold"
+                       Foreground="#2C3E50"
+                       VerticalAlignment="Center"
+                       Margin="0 0 10 0"/>
+
+            <ComboBox ItemsSource="{Binding Tarefas}"
+                      DisplayMemberPath="Titulo"
+                      SelectedItem="{Binding TarefaSelecionada}"
+                      Width="250"
+                      Height="30"
+                      Padding="5"
+                      Background="White"
+                      BorderBrush="#D5D8DC"/>
+        </StackPanel>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Orientation="Vertical" Margin="0 0 0 20">
+
+                <!-- PAINEL DE ESTATÍSTICAS -->
+                <Border Background="White" BorderBrush="#D5D8DC" BorderThickness="1" CornerRadius="10" Padding="15" Margin="0 0 0 20">
+                    <StackPanel>
+                        <TextBlock Text="📈 Estatísticas da Tarefa Selecionada" FontWeight="Bold" FontSize="16" Margin="0 0 10 0"/>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Media, StringFormat='📊 Média da turma: {0:F1}'}" />
+                            <TextBlock Text="{Binding NotaMaxima, StringFormat='🔝 Nota mais alta: {0:F1}'}" />
+                            <TextBlock Text="{Binding NotaMinima, StringFormat='🔻 Nota mais baixa: {0:F1}'}" />
+                            <TextBlock Text="{Binding Aprovados, StringFormat='✅ Aprovados: {0}'}" />
+                            <TextBlock Text="{Binding Reprovados, StringFormat='❌ Reprovados: {0}'}" />
+
+                        </WrapPanel>
+                    </StackPanel>
+                </Border>
+
+                <!-- GRÁFICO ALUNOS -->
+                <Border Background="White" BorderBrush="#D5D8DC" BorderThickness="1" CornerRadius="10" Padding="10" Margin="0 0 0 20">
+                    <StackPanel>
+                        <TextBlock Text="📊 Notas dos Alunos" FontWeight="Bold" FontSize="16" Margin="0 0 10 0"/>
+                        <lvc:CartesianChart Series="{Binding GraficoAlunosSeries}" Height="250">
+                            <lvc:CartesianChart.AxisX>
+                                <lvc:Axis Labels="{Binding LabelsAlunos}" Title="Alunos" LabelsRotation="15"/>
+                            </lvc:CartesianChart.AxisX>
+                            <lvc:CartesianChart.AxisY>
+                                <lvc:Axis Title="Nota" LabelFormatter="{Binding Formatter}" />
+                            </lvc:CartesianChart.AxisY>
+                        </lvc:CartesianChart>
+                    </StackPanel>
+                </Border>
+
+                <!-- GRÁFICO GRUPOS -->
+                <Border Background="White" BorderBrush="#D5D8DC" BorderThickness="1" CornerRadius="10" Padding="10" Margin="0 0 0 20">
+                    <StackPanel>
+                        <TextBlock Text="📊 Notas dos Grupos" FontWeight="Bold" FontSize="16" Margin="0 0 10 0"/>
+                        <lvc:CartesianChart Series="{Binding GraficoGruposSeries}" Height="250">
+                            <lvc:CartesianChart.AxisX>
+                                <lvc:Axis Labels="{Binding LabelsGrupos}" Title="Grupos"/>
+                            </lvc:CartesianChart.AxisX>
+                            <lvc:CartesianChart.AxisY>
+                                <lvc:Axis Title="Nota" LabelFormatter="{Binding Formatter}" />
+                            </lvc:CartesianChart.AxisY>
+                        </lvc:CartesianChart>
+                    </StackPanel>
+                </Border>
+
+                <!-- TABELA DE NOTAS -->
+                <Border Background="White" BorderBrush="#D5D8DC" BorderThickness="1" CornerRadius="10" Padding="10">
+                    <StackPanel>
+                        <TextBlock Text="📁 Tabela de Notas por Grupo e Alunos" FontWeight="Bold" FontSize="16" Margin="0 0 10 0"/>
+                        <ItemsControl ItemsSource="{Binding GruposSimplificados}">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="0 0 0 20">
+                                        <TextBlock Text="{Binding Nome}" FontWeight="Bold" Foreground="#2C3E50"/>
+                                        <TextBlock Text="{Binding Nota, StringFormat=Nota do Grupo: {0:F1}}" Margin="0 0 10 5"/>
+                                        <ItemsControl ItemsSource="{Binding Alunos}">
+                                            <ItemsControl.ItemTemplate>
+                                                <DataTemplate>
+                                                    <TextBlock>
+                                                        <TextBlock.Text>
+                                                            <MultiBinding StringFormat="{}{0} - Nota: {1:F1}">
+                                                                <Binding Path="Nome"/>
+                                                                <Binding Path="Nota"/>
+                                                            </MultiBinding>
+                                                        </TextBlock.Text>
+                                                    </TextBlock>
+                                                </DataTemplate>
+                                            </ItemsControl.ItemTemplate>
+                                        </ItemsControl>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </StackPanel>
+                </Border>
+
+            </StackPanel>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

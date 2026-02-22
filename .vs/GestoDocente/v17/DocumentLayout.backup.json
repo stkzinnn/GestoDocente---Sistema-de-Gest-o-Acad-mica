@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\GestoDocente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7634894C-3221-40AB-89A2-3A884F1DA255}|GestoDocente\\GestoDocente.csproj|c:\\users\\rodri\\desktop\\gestodocente\\gestodocente\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7634894C-3221-40AB-89A2-3A884F1DA255}|GestoDocente\\GestoDocente.csproj|solutionrelative:gestodocente\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634894C-3221-40AB-89A2-3A884F1DA255}|GestoDocente\\GestoDocente.csproj|c:\\users\\rodri\\desktop\\gestodocente\\gestodocente\\views\\visualizarnotasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7634894C-3221-40AB-89A2-3A884F1DA255}|GestoDocente\\GestoDocente.csproj|solutionrelative:gestodocente\\views\\visualizarnotasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\GestoDocente\\GestoDocente\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GestoDocente\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\GestoDocente\\GestoDocente\\MainWindow.xaml",
+              "RelativeToolTip": "GestoDocente\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T16:52:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisualizarNotasView.xaml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\GestoDocente\\GestoDocente\\Views\\VisualizarNotasView.xaml",
+              "RelativeDocumentMoniker": "GestoDocente\\Views\\VisualizarNotasView.xaml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\GestoDocente\\GestoDocente\\Views\\VisualizarNotasView.xaml",
+              "RelativeToolTip": "GestoDocente\\Views\\VisualizarNotasView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T12:55:12.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

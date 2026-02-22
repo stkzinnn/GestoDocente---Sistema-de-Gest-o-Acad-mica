@@ -1,0 +1,167 @@
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.exe
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.deps.json
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.runtimeconfig.json
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CsvHelper.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.cache
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.lref
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.g.resources
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfo.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDoc.56899D35.Up2Date
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\refint\GestoDocente.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.genruntimeconfig.cache
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\ref\GestoDocente.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.g.cs
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.Wpf.dll
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.baml
+C:\Users\rodri\source\repos\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.exe
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.deps.json
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.runtimeconfig.json
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CsvHelper.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.Wpf.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.AssemblyReference.cache
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.cache
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.lref
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.g.resources
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfoInputs.cache
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfo.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.CoreCompileInputs.cache
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDoc.56899D35.Up2Date
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\refint\GestoDocente.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.genruntimeconfig.cache
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\ref\GestoDocente.dll
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarGrupoView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarGrupoView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\UserProfileView.g.cs
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\UserProfileView.baml
+C:\Users\Adriano Ribeiro\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.dll.config
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.exe
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.dll.config
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.deps.json
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.runtimeconfig.json
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\CsvHelper.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\LiveCharts.Wpf.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarGrupoView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarAlunoView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AdicionarTarefaView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarGrupoView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\GruposView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\NotasView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\VisualizarNotasView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.cache
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente_MarkupCompile.lref
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\AlunosView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\TarefasView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.g.resources
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.AssemblyInfo.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDoc.56899D35.Up2Date
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\refint\GestoDocente.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.pdb
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\GestoDocente.genruntimeconfig.cache
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\ref\GestoDocente.dll
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\PautaFinalView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\PautaFinalView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarPerfilView.g.cs
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Views\EditarPerfilView.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\Themes\EstilosModernos.baml
+C:\Users\rodri\Desktop\GestoDocente\GestoDocente\obj\Debug\net9.0-windows\App.baml
